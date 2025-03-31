@@ -2,14 +2,16 @@
 // @name        Smart eye filter
 // @namespace   Violentmonkey Scripts
 // @match       *://*/*
-// @grant       GM_getValue
-// @grant       GM_setValue
-// @grant       GM_registerMenuCommand
-// @grant       GM_unregisterMenuCommand
+// @grant       GM_getValue  
+// @grant       GM_setValue  
+// @grant       GM_registerMenuCommand  
+// @grant       GM_unregisterMenuCommand  
 // @version     1.1
 // @author      someone_there
 // @description Automatic adjustment of screen brightness and temperature
-// @icon        https://i.imgur.com/7W8Q0D2.png
+// @icon        https://i.ibb.co/jZkKwdSX/Screenshot-2025-02-24-193609.png
+// @license     MIT
+// @updateURL   https://github.com/someoneisfaraway/some_project-/raw/main/Tampermonkey_smart_eye_filter.js
 // ==/UserScript==
 
 (function() {
